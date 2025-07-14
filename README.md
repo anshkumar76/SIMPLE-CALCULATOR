@@ -1,2 +1,2 @@
 # SIMPLE-CALCULATOR
-It is a simple calculator you to calculates the sum of numbers..
+It is a simple calculator you can used to calculates the sum of numbers..
